@@ -1,0 +1,2 @@
+# PaddlePaddle-Fasttext-Embedding
+基于Paddle的Fasttext词嵌入方法的实现
